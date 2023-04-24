@@ -24,9 +24,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Slor",
+        "label": "dark",
         "uiTheme": "vs-dark",
-        "path": "darkertest-color-theme.json"
+        "path": "themes/Slor-color-theme.json"
       }
     ]
   }
