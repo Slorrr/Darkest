@@ -1,0 +1,21 @@
+{
+  "name": "darkest",
+  "displayName": "Darkest",
+  "description": "The darkest color scheme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Slor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Slor-color-theme.json"
+      }
+    ]
+  }
+}
