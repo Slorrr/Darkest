@@ -3,6 +3,18 @@
   "displayName": "Darkest",
   "description": "The darkest color scheme",
   "version": "0.0.1",
+  "publisher": "Slor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Slorrr/Darkest"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "the darkest theme",
+    "darkest",
+    "dark"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -14,7 +26,7 @@
       {
         "label": "Slor",
         "uiTheme": "vs-dark",
-        "path": "./themes/Slor-color-theme.json"
+        "path": "darkertest-color-theme.json"
       }
     ]
   }
