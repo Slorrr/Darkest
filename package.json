@@ -3,6 +3,7 @@
   "displayName": "Darkest",
   "description": "The darkest color scheme",
   "version": "0.5.0",
+  "icon": "logo.png",
   "publisher": "Slor",
   "repository": {
     "type": "git",
