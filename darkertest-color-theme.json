@@ -1,6 +1,7 @@
 {
   "name": "Darkertest",
   "type": "dark",
+  "icon": "logo.png",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
